@@ -70,6 +70,8 @@ understand design rules, and deepen my knowledge in embedded systems, even thoug
 - **VBUS (5V from USB) powers the system**
 - **Regulator converts 5V → 3.3V for MCU**
 
+![image.alt](https://github.com/mypin99/EmbeddedHardware_STM32WB_PCB/blob/main/STM32WB%20Bluetooth%20Capable%20Schematic.png?raw=true)
+
 ## Possible Applications
 Once assembled, this PCB can be used for:
 1. **Wireless Sensor Node** – Collect and transmit data (e.g., temperature, humidity) via **Bluetooth Low Energy (BLE)**.
