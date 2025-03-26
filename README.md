@@ -72,6 +72,7 @@ understand design rules, and deepen my knowledge in embedded systems, even thoug
 
 ![image.alt](https://github.com/mypin99/EmbeddedHardware_STM32WB_PCB/blob/main/STM32WB%20Bluetooth%20Capable%20Schematic.png?raw=true)
 
+![image.alt](https://github.com/mypin99/EmbeddedHardware_STM32WB_PCB/blob/main/STM32WB%20Bluetooth%20Capable%203D%20Viewer.png?raw=true)
 ## Possible Applications
 Once assembled, this PCB can be used for:
 1. **Wireless Sensor Node** – Collect and transmit data (e.g., temperature, humidity) via **Bluetooth Low Energy (BLE)**.
